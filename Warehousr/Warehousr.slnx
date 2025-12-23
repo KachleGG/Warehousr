@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Warehousr.Api/Warehousr.Api.csproj" />
+  <Project Path="Warehousr.Client/Warehousr.Client.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+  <Project Path="Warehousr.Core/Warehousr.Core.csproj" />
+</Solution>
